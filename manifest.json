@@ -1,0 +1,15 @@
+{
+  "name": "Google Music Remote App",
+  "description": "Packaged app for controlling google music from a mobile 
+device",
+  "version": "1",
+  "manifest_version": 2,
+  "icons": {
+    "128": "icon_128.png"
+  }, 
+  "app": {
+    "background": {
+      "scripts": ["main.js"]
+    }
+  }
+}
